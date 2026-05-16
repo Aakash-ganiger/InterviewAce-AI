@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Guest",
+    "role": "General",
+    "question": "Tell me about yourself.",
+    "answer": "sorry ",
+    "score": 35,
+    "feedback": "\nScore: 35/100\nFeedback: A more elaborate response demonstrating your qualifications and experiences would strengthen this answer. Focus on clarity, detail, and confidence to improve your score.",
+    "date": "26-04-2026 15:07"
+  },
+  {
+    "name": "Guest",
+    "role": "General",
+    "question": "Why should we hire you?",
+    "answer": "i work hard, i work my ass off",
+    "score": 65,
+    "feedback": "\nScore: 65/100 - You provided a strong work ethic, which is important. However, your response lacks specificity and doesn't directly address the question about hiring reasons from an interviewer\u2019s perspective. Please provide more details on how you would contribute to our team or organization in this role.\n\nFeedback: Elaborate with concrete examples of past experiences where hard work led to success, explain your potential contributions here and align them closely with company goals for improvement.",
+    "date": "26-04-2026 15:07"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi i am abhi from pesitm, shivamogga, i am a cse graduate, i have 2 years of experience as backend developer, i am interested in python flask framework and i like testing API's",
+    "score": 95,
+    "feedback": "Score: 95\n\nFeedback: Well articulated answer with relevant experience and interests, could provide more details about past projects to strengthen the response further.",
+    "date": "26-04-2026 15:15"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi i am abhi",
+    "score": 10,
+    "feedback": "Question Answer Rating System Guide for Interviewee (Candidate): For each question, I will assign a numerical rating based on the criteria provided. A score of zero indicates an extremely weak or unhelpful response with no detail and potential rudeness detected; ten signifies that while politeness was maintained if possible, details were still lacking in providing insight into who Abhi is as a professional candidate. Scores will range from 10 to 50 for decent responses but without the necessary clarity or confidence indicative of an exceptional interviewee; five-star ratings (40\u201360) represent clear answers with some level of detail, which suggests competence and reliability in potential job roles if applicable.\n\nCandidate Response: Hi I am Abhi \u2013 Rating 25/100 Feedback: A polite introduction but very little personal or professional insight into your background; please expand upon this to engage more effectively with the interviewer and demonstrate relevant skills and experience for potential job opportunities.\n\n",
+    "date": "26-04-2026 15:18"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "Why should we hire you?",
+    "answer": "wtvr",
+    "score": 35,
+    "feedback": "\nScore: 35/100 - The candidate provided a response that does not align with the expectations. It lacks detail, clarity and appears to be unrelated or potentially rude (wtvr). A strong answer would directly address how your professional skills match our company's needs in hiring for this position.\n\nFeedback: Please provide responses that are relevant to the interview question and reflect on why you believe you meet our requirements as a candidate.",
+    "date": "26-04-2026 15:18"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "What are your strengths?",
+    "answer": "nothing",
+    "score": 1,
+    "feedback": "Scores cannot be provided. However, for the answer given by a candidate stating they have \"nothing\" as their strengths, this would likely score below 1 endorsement due to its dismissive nature and lack of detail that could contribute constructively to an interview setting. Feedback: To improve your responses in future interviews, provide specific examples or skills related to the job you're applying for which highlight how they are valuable assets in a professional environment.\n\n",
+    "date": "26-04-2026 15:19"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi i am abhi from pesitm , shivamogga, i have 2 years of experienc as backend develper , i am a cse graduate , i like flask framwork",
+    "score": 75,
+    "feedback": "\nScore: 75/100. You provided a good overview and relevant experience as a backend developer with Flask, which is commendable. However, consider expanding on specific projects or accomplishments to give more depth to your answer. Additionally, avoid using informal language like \"hi\" at the beginning of professional communications for better formality in interviews.\n\nFeedback: Provide a concise yet engaging narrative about your experiences and skills; start with a formal greeting and refrain from colloquial phrases to convey professionalism.",
+    "date": "26-04-2026 15:20"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi i am abhi from pesitm, shimoga, i graduated in 2026 from CSE, i am looking for Backend intern rolse, i am familiar with flask framwork in python, i like testing API's",
+    "score": 85,
+    "feedback": "Articulates background, technical skills clearly.",
+    "date": "26-04-2026 15:24"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi",
+    "score": 5,
+    "feedback": "Weak answer.",
+    "date": "26-04-2026 15:47"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi i am abhi from shivaogga",
+    "score": 5,
+    "feedback": "Response lacks detail and personal storytelling elements to enhance the answer's richness and engagement level in a professional setting, such as an interview for Shivaogga.",
+    "date": "26-04-2026 16:10"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi i am abhi i am from shimoga, i graduated from pesitm from CSE Department",
+    "score": 8,
+    "feedback": "Include personal interests or hobbies to give a fuller picture of yourself.",
+    "date": "26-04-2026 16:23"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "Why should we hire you?",
+    "answer": "i am a quick learner, i have a experience of 2 years in backend developemnt, i am fmaillair with flask framework of python, and testing API's using postman, i am also a bit familiar with Docker ",
+    "score": 90,
+    "feedback": "While your experience aligns well with backend development and specific technologies mentioned, consider demonstrating any relevant leadership or teamwork skills directly through experiences or certifications if available; these are also valuable assets to an organization seeking a new hire.",
+    "date": "26-04-2026 16:24"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "What are your strengths?",
+    "answer": "my strengths? i go to gym",
+    "score": 2,
+    "feedback": "The answer provided does not directly address the question and lacks relevance. Strength is generally referred to in terms of abilities or skills, rather than gym attendance which alone doesn't necessarily reflect one\u2019s strength as a candidate for something unrelated like an interviewer role.",
+    "date": "26-04-2026 16:25"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi i am abhi",
+    "score": 20,
+    "feedback": "Too short. Add detail.",
+    "date": "28-04-2026 16:51"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Why should we hire you?",
+    "answer": "because i am good",
+    "score": 20,
+    "feedback": "Too short. Add detail.",
+    "date": "28-04-2026 16:51"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "What are your strengths?",
+    "answer": "next question",
+    "score": 20,
+    "feedback": "Too short. Add detail.",
+    "date": "28-04-2026 16:51"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "why",
+    "score": 20,
+    "feedback": "Too short. Add detail.",
+    "date": "28-04-2026 16:52"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Why should we hire you?",
+    "answer": "prolly bcos i am great",
+    "score": 1,
+    "feedback": "Improve answer clarity.",
+    "date": "28-04-2026 16:54"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "What are your strengths?",
+    "answer": "i guess i got to gym is my strength",
+    "score": 2,
+    "feedback": "Please focus on articulating concrete strengths and ties them back to the job requirements, using specific examples from your experience at the gym. Demonstrate how these skills translate into professional competencies needed in the workplace.\"",
+    "date": "28-04-2026 16:55"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "non sense question",
+    "score": 20,
+    "feedback": "Too short. Add detail.",
+    "date": "28-04-2026 16:55"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi i am aditya from shimoga, i stuided in PESITM CSE Department i graduated in 2026,  i have 6 months of experienec as backend intern in grow company",
+    "score": 7,
+    "feedback": "Please provide your full name, the complete title of your degree and finish with how long you were at each job including exact start and end dates to improve clarity in your resume writing.",
+    "date": "28-04-2026 17:11"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi i am Aditya, i am from shivamogga, i studied in CSE Department and graduated in 2026, i am interested in backend development, i am familiar with flask framwork in python, i have tested API's using POSTMAN tool..",
+    "score": 95,
+    "feedback": "Your answer is clear and provides a comprehensive view of your background, skills, and interests. However, including some details about past projects or relevant certifications could enhance the response further.",
+    "date": "28-04-2026 17:16"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Why should we hire you?",
+    "answer": "becuase i am a hard working person",
+    "score": 35,
+    "feedback": "Answer is a bit short. Try to add more details and structure.",
+    "date": "28-04-2026 17:16"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "What are your strengths?",
+    "answer": "backend flask framwork, react a bit, API basics",
+    "score": 35,
+    "feedback": "Answer is a bit short. Try to add more details and structure.",
+    "date": "28-04-2026 17:17"
+  },
+  {
+    "name": "Abhi",
+    "role": "Software",
+    "question": "Explain your best project.",
+    "answer": "It was resaurant mangement system, built using react, flask, postman for API Testing, the hote ladmin acan reserve tables, using color indicators like green, red and yellow - to showcase vacant, booked, occupied, it can also generate bills",
+    "score": 20,
+    "feedback": "Project demonstrates thoughtful application of technology for real-world improvement, though could benefit from incorporating predictive analytics for even greater optimization potential.",
+    "date": "28-04-2026 17:18"
+  },
+  {
+    "name": "Abhi",
+    "role": "Software",
+    "question": "What is REST API?",
+    "answer": "REST API stands for Reprentational state tranfer application program interface",
+    "score": 2,
+    "feedback": "The answer provided contains factual inaccuraty, as it defines REST API incorrectly. A more accurate description would be that a REST API is an architectural style for designing networked applications using HTTP requests to perform CRUD (Create, Read, Update, Delete) operations on data managed by different servers/data sources and clients communicate with each other through stateless protocols.",
+    "date": "28-04-2026 17:19"
+  },
+  {
+    "name": "Abhi",
+    "role": "Software",
+    "question": "Difference between SQL and NoSQL?",
+    "answer": "SQL is strucutred and NoSQL is unstructured querying language",
+    "score": 35,
+    "feedback": "Answer is a bit short. Try to add more details and structure.",
+    "date": "28-04-2026 17:20"
+  },
+  {
+    "name": "Abhi",
+    "role": "Software",
+    "question": "Explain your best project.",
+    "answer": "The internship was carried out in the domain of Artificial Intelligence and Machine Learning through guided online sessions and practical assignments. It provided exposure to real-world workflows, industry tools, and modern technologies. The internship helped improve technical knowledge, coding skills, analytical thinking, and communication abilities.\n",
+    "score": 85,
+    "feedback": "Your answer was clear and gave good insight into your experience, but could you provide more specific examples or results from the projects?",
+    "date": "28-04-2026 17:24"
+  },
+  {
+    "name": "Abhi",
+    "role": "Software",
+    "question": "What is REST API?",
+    "answer": "representaional state tranfer application program interface\nit does the service fetching and forwarding data between the client and the server via database ",
+    "score": 75,
+    "feedback": "You've got the basic concept, but let\u2019s dig a bit deeper into how REST APIs handle data transfer without databases and clarify that they are not application program interfaces themselves.",
+    "date": "28-04-2026 17:25"
+  },
+  {
+    "name": "Abhi",
+    "role": "Software",
+    "question": "Difference between SQL and NoSQL?",
+    "answer": "SQL is structured and NOSQL is unstructured",
+    "score": 35,
+    "feedback": "Answer is a bit short. Try to add more details and structure.",
+    "date": "28-04-2026 17:26"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi i am abhi from shivamogga, i graduated from PESTIM from CSE Deaprtment in 2026 and i am interested in backend development, i am familiar with flask framework of python, and i have tested API's with POSTMAN TOOl",
+    "score": 85,
+    "feedback": "Your answer is clear and provides relevant information about your background in backend development, but consider expanding on specific projects or experiences to provide more depth. Remember the year you graduated; it seems off by a few years! And don't worry if English isn't perfect \u2013 practice makes progress!",
+    "date": "28-04-2026 17:27"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Why should we hire you?",
+    "answer": "i am a fast learner and i really need the job for financial reasons",
+    "score": 60,
+    "feedback": "Your financial reasons are understandable, but try to tie in your skills and experiences more closely with the job's requirements.",
+    "date": "28-04-2026 17:28"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "What are your strengths?",
+    "answer": "i go to gym",
+    "score": 35,
+    "feedback": "Answer is a bit short. Try to add more details and structure.",
+    "date": "28-04-2026 17:28"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "I am a abhi from psim College Agra situated in 2026 from CSE batch interested in backend development and I have tested APS with postman tool",
+    "score": 75,
+    "feedback": "While your response gives us an idea about your educational background and interests, try to provide a bit more insight into what specifically you've learned at CSE that makes you interested in backend development. Also consider mentioning any projects or experiences with API testing using tools like Postman for future interviews.",
+    "date": "28-04-2026 17:31"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "Why should we hire you?",
+    "answer": "i am fast learner and I will dedicate my work to improve this company",
+    "score": 75,
+    "feedback": "Your enthusiasm for the role and commitment to contribute positively is clear, but providing specific examples of past experiences where you've shown these qualities could strengthen your response.",
+    "date": "28-04-2026 17:32"
+  },
+  {
+    "name": "Abhi",
+    "role": "HR",
+    "question": "What are your strengths?",
+    "answer": "i am good at backend flask framwork",
+    "score": 35,
+    "feedback": "Answer is a bit short. Try to add more details and structure.",
+    "date": "28-04-2026 17:32"
+  },
+  {
+    "name": "Abhi",
+    "role": "Data",
+    "question": "What is machine learning?",
+    "answer": "making a computer learn from data",
+    "score": 35,
+    "feedback": "Answer is a bit short. Try to add more details and structure.",
+    "date": "28-04-2026 17:35"
+  },
+  {
+    "name": "Abhi",
+    "role": "Data",
+    "question": "Explain overfitting.",
+    "answer": "when the model is too good for a data to train on",
+    "score": 75,
+    "feedback": "That's on the right track, but you could clarify how overfitting relates to model performance and possibly mention some common strategies for preventing it.",
+    "date": "28-04-2026 17:36"
+  },
+  {
+    "name": "Abhi",
+    "role": "Data",
+    "question": "What is data cleaning?",
+    "answer": "removing unwanted matericals such as noises, duplicate from the given data to improve the accuracy of data",
+    "score": 70,
+    "feedback": "Good attempt but please consider emphasizing the distinction between physical and non-physical unwanted elements in data, such as noise or inconsistencies. Also include examples of how to detect and remove these irregularities for a clearer understanding.",
+    "date": "28-04-2026 17:36"
+  },
+  {
+    "name": "abhi",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "sure",
+    "score": 15,
+    "feedback": "Too brief. Please elaborate with more detail.",
+    "date": "29-04-2026 13:17"
+  },
+  {
+    "name": "Aditya",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "hi i am aditya from shimoga, i graduated in 2026 from CSE deaprtment, i am interested in backend development, i am familiar with Python Flask Framwork and Testing API's with POSTMAN",
+    "score": 85,
+    "feedback": "Your experience with Python and Flask is impressive, Aditya; however, for a clearer understanding of your skills in testing APIs, it might be beneficial to mention specific projects or problems you've solved using POSTMAN.",
+    "date": "29-04-2026 13:23"
+  },
+  {
+    "name": "Aditya",
+    "role": "HR",
+    "question": "Why should we hire you?",
+    "answer": "i am a fast learner and i have 3 months of experience as backend intern at Grow Company, ",
+    "score": 70,
+    "feedback": "Your response highlights relevant experience and adaptability, but consider expanding on the skills you've gained during your internship to strengthen it further.",
+    "date": "29-04-2026 13:24"
+  },
+  {
+    "name": "Aditya",
+    "role": "HR",
+    "question": "What are your strengths?",
+    "answer": "Docker, API Testing, React, Flask",
+    "score": 35,
+    "feedback": "Answer is a bit short. Try to add more details and structure.",
+    "date": "29-04-2026 13:24"
+  },
+  {
+    "name": "Aakash S Ganiger",
+    "role": "Software",
+    "question": "Explain your best project.",
+    "answer": "Object Detection Using YOLO And SORT",
+    "score": 35,
+    "feedback": "Answer is a bit short. Try to add more details and structure.",
+    "date": "10-05-2026 14:53"
+  },
+  {
+    "name": "Aakash S Ganiger",
+    "role": "Software",
+    "question": "What is REST API?",
+    "answer": "A REST API (Representational State Transfer API) is a way for different software systems to communicate with each other over the internet using simple HTTP methods.",
+    "score": 80,
+    "feedback": "\"I appreciate your clarity in explaining the importance and features of the REST API. Your response was well-structured, and I found it informative and easy to follow.\"",
+    "date": "10-05-2026 14:54"
+  },
+  {
+    "name": "Aakash S Ganiger",
+    "role": "Software",
+    "question": "Difference between SQL and NoSQL?",
+    "answer": "SQL and NoSQL are two major types of databases used to store and manage data. The main difference is how they organize data and how flexible their structure is.",
+    "score": 50,
+    "feedback": "Improve answer clarity.",
+    "date": "10-05-2026 14:55"
+  },
+  {
+    "name": "Apeksha D M",
+    "role": "Software",
+    "question": "Explain your best project.",
+    "answer": "i have worked on Ai based detection of human body status using pulse",
+    "score": 50,
+    "feedback": "Improve answer clarity.",
+    "date": "12-05-2026 12:27"
+  },
+  {
+    "name": "Apeksha D M",
+    "role": "Software",
+    "question": "What is REST API?",
+    "answer": "Api is a medium for connection of front and the backend data",
+    "score": 100,
+    "feedback": "Improve answer clarity.",
+    "date": "12-05-2026 12:28"
+  },
+  {
+    "name": "Apeksha D M",
+    "role": "Software",
+    "question": "Difference between SQL and NoSQL?",
+    "answer": "SQL databases are relational, meaning they use a structured, table-based format (rows and columns). NoSQL databases are non-relational and use various flexible models like documents, key-value pairs, or graphs. ",
+    "score": 95,
+    "feedback": "\"SQL databases are traditional, while NoSQL databases have become more popular due to their flexibility in storing and retrieving data.\"",
+    "date": "12-05-2026 12:29"
+  },
+  {
+    "name": "Apeksha D M",
+    "role": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "Hi I am Apeksha D M. I am currently onboarded on a internship in Swizosoft. I have currently in my final year of Engineering the course of Computer Science and Engineering. ",
+    "score": 93,
+    "feedback": "You have outlined your qualifications in detail, showcasing your skills in software development and project management. Additionally, you've spoken about the tech industry and your experience with developing software solutions for a high-profile company. Your communication style is clear and concise, making it easy to understand your response.",
+    "date": "12-05-2026 12:36"
+  },
+  {
+    "name": "Apeksha D M",
+    "role": "HR",
+    "question": "Why should we hire you?",
+    "answer": "You should hire me because I offer the exact combination of technical expertise in python and a proven track record of debate and talking competition that will allow me to drive results for this team immediately. My passion for company ensures I am dedicated to long-term success here.\u00a0",
+    "score": 100,
+    "feedback": "\"Your ability to effectively communicate with senior management is a clear asset in this role.\"",
+    "date": "12-05-2026 12:38"
+  },
+  {
+    "name": "Apeksha D M",
+    "role": "HR",
+    "question": "What are your strengths?",
+    "answer": "Easy going, Communication, Fluent in multiple language",
+    "score": 35,
+    "feedback": "Answer is a bit short. Try to add more details and structure.",
+    "date": "12-05-2026 12:39"
+  }
+]
